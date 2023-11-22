@@ -3,7 +3,7 @@
 <h3>Install the following dependencies to run the project:</h3>
 
 ```yaml
-#  Update pip if necessary.
+# Update pip if necessary.
 pip install --upgrade pip
 
 # Intall tensorflow
